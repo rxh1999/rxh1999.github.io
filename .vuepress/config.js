@@ -47,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/rxh1999",
             "icon": "reco-github"
           }
         ]
@@ -93,9 +93,10 @@ module.exports = {
     "author": "rxh1999",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2021"
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  configureWebpack
 }
