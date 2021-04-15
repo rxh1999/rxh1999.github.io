@@ -97,6 +97,5 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  },
-  configureWebpack
+  }
 }
