@@ -7,8 +7,7 @@ tags:
 categories: 
  - linux
 ---
-
-# 安装和配置Clash
+## 安装和配置Clash
 
 1. 安装
 
@@ -28,7 +27,7 @@ categories:
    clash
    ```
 
-   访问http://clash.razord.top/#/proxies，在设置中查看HTTP代理端口和Socks5代理端口
+   访问<http://clash.razord.top/#/proxies>，在设置中查看HTTP代理端口和Socks5代理端口
 
 3. 配置vpn
 
@@ -36,7 +35,7 @@ categories:
 
    ![041501clash](../../../img/041501clash.png)
 
-# 添加Clash启动服务
+## 添加Clash启动服务
 
 1. 添加service文件
 
@@ -79,7 +78,6 @@ categories:
 
    
 
-# 参考文献
-
-https://suan.eu.org/post/clash-%E6%95%99%E7%A8%8B/
+## 参考文献
+<https://suan.eu.org/post/clash-%E6%95%99%E7%A8%8B/>
 
