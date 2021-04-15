@@ -11,8 +11,8 @@ categories:
 - install chaincode
 - pick an admin from each org to participate to approve the chaincode
 - commit chaincode
-- (initialize if your chaincode require init method with init params)
-- discover chaincode, can also get the endorsement policy
+- (initialize your chaincode with init params if your chaincode require Init method)
+- discover chaincode
 - invoke chaincode
 - check the block
 ## code
@@ -30,4 +30,4 @@ categories:
 ./minifab approve,commit,initialize,discover -p '<<init params>>'
 ```
 ## errors
-- [采坑记录](/blogs/HyperledgerFabric/2021/minifab0x 踩坑记录/#error1)
+- [踩坑记录](/blogs/HyperledgerFabric/2021/minifab0x%20踩坑记录/#error1)
