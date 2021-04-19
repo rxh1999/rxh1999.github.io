@@ -27,7 +27,7 @@ cd ~/mywork && vim spec.yaml
 - 开启服务器的7000-7500端口，both tcp & udp（[minifab端口规则](https://github.com/hyperledger-labs/minifabric/blob/main/docs/README.md#setup-a-network-using-a-different-spec))
 - 启动命令
   ```bash
-  ./minifab -i 2.2.2 -e true -s couchdb -o yourorg.example.com
+  ./minifab up -i 2.2.0 -e true -s couchdb -o yourorg.example.com
   ```
 
 
