@@ -22,8 +22,8 @@ categories:
 2. 配置
 
    ```bash
-   mkdir -r ~/.config/clash
-   mv your/config/file.yml ~/.config/clash/config.yml
+   mkdir -p ~/.config/clash
+   mv your/config/file.yaml ~/.config/clash/config.yaml
    clash
    ```
 
